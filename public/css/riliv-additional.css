@@ -1,0 +1,152 @@
+/*!
+ * Riliv Additional CSS
+ * Additional CSS digunakan untuk menambahkan css eksternal
+ * yang tidak ada dalam standar bootstrap.
+ *
+ * Hal ini dilakukan agar riliv-bootstrap tidak mengalami
+ * intrupsi ketika pengembangan komponen yang tidak tersedia
+ * pada standar bootstrap.
+
+ * Author: Satrio Adi (linkedin: satriooadi), Rafly Arief Kanza (linkedin: raflyariefkanza)
+ * You can always contact the author find more about the past development.
+ * Put your name and your contact information for continuous develoopment.
+
+ * You may change this standar documentation if necessary.
+*/
+html {
+  scroll-behavior: smooth; }
+
+/*!
+ * This is for animation
+*/
+.anim {
+  transition: all 0.2s ease; }
+  .anim-rotate-normal {
+    -ms-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg); }
+  .anim-rotate-90-clockwise {
+    -ms-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg); }
+  .anim-rotate-90-cclockwise {
+    -ms-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg); }
+
+.bg-bottom {
+  background-position: bottom; }
+
+.bg-center {
+  background-position: center; }
+
+.bg-left {
+  background-position: left; }
+
+.bg-left-bottom {
+  background-position: left bottom; }
+
+.bg-left-top {
+  background-position: left top; }
+
+.bg-right {
+  background-position: right; }
+
+.bg-right-bottom {
+  background-position: right bottom; }
+
+.bg-right-top {
+  background-position: right top; }
+
+.bg-top {
+  background-position: top; }
+
+.bg-auto {
+  background-size: auto; }
+
+.bg-cover {
+  background-size: cover; }
+
+.bg-contain {
+  background-size: contain; }
+
+.bg-repeat {
+  background-repeat: repeat; }
+
+.bg-no-repeat {
+  background-repeat: no-repeat; }
+
+.bg-repeat-x {
+  background-repeat: repeat-x; }
+
+.bg-repeat-y {
+  background-repeat: repeat-y; }
+
+.bg-repeat-round {
+  background-repeat: round; }
+
+.bg-repeat-space {
+  background-repeat: space; }
+
+.bg-header {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+button:focus {
+  outline: 0px dotted;
+  outline: 0px auto -webkit-focus-ring-color; }
+
+.container-padding-riliv {
+  padding-left: 9px !important;
+  padding-right: 9px !important; }
+
+@media (min-width: 576px) {
+  .container-padding-riliv {
+    padding-left: 18px !important;
+    padding-right: 18px !important; } }
+
+@media (min-width: 768px) {
+  .container-padding-riliv {
+    padding-left: 24px !important;
+    padding-right: 24px !important; } }
+
+@media (min-width: 1050px) {
+  .container-padding-riliv {
+    padding-left: 36px !important;
+    padding-right: 36px !important; } }
+
+@media (min-width: 1100px) {
+  .container-padding-riliv {
+    padding-left: 42px !important;
+    padding-right: 42px !important; } }
+
+@media (min-width: 576px) {
+  .text-sm-left {
+    text-align: left; }
+  .text-sm-right {
+    text-align: right; }
+  .text-sm-center {
+    text-align: center; }
+  .text-sm-justify {
+    text-align: justify; } }
+
+@media (min-width: 768px) {
+  .text-md-left {
+    text-align: left; }
+  .text-md-right {
+    text-align: right; }
+  .text-md-center {
+    text-align: center; }
+  .text-md-justify {
+    text-align: justify; } }
+
+@media (min-width: 1050px) {
+  .text-lg-left {
+    text-align: left; }
+  .text-lg-right {
+    text-align: right; }
+  .text-lg-center {
+    text-align: center; }
+  .text-lg-justify {
+    text-align: justify; } }

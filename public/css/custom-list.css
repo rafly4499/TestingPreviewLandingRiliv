@@ -1,0 +1,232 @@
+.negativeList {
+	list-style-type: "-";
+}
+
+.img_content {
+	width: 100%;
+}
+
+.bg_riliv {
+	background: #11CBE1;
+	border-radius: 16px;
+	padding: 30px 24px !important;
+}
+
+.bg_riliv_2 {
+	background: #D0F5F9;
+	border-radius: 16px;
+	padding: 0px !important;
+}
+.bg_riliv3 {
+	background: #CFF5F8;
+border-radius: 16px;
+padding: 16px 39px 0px 39px !important;
+}
+@media (max-width: 420px) {
+	.bg_riliv3 {
+		background: #CFF5F8;
+	border-radius: 16px;
+	padding: 0px !important;
+	}
+	.heightRilivAuto{
+		height: auto !important;
+	}
+}
+.bg_default {
+	background: #FFFFFF;
+	box-shadow: 0px 16px 40px rgba(0, 0, 0, 0.05);
+	border-radius: 16px;
+	padding: 16px !important;
+}
+.bg_default2 {
+	background: #FFFFFF;
+box-shadow: 0px 16px 40px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+	padding: 32px 24px !important;
+}
+.bg_default h2 {
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 25px;
+	/* identical to box height, or 179% */
+
+	text-align: center;
+}
+.bg-grey-light{
+	background: #FAFAFA;
+}
+.font-content {
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 34px;
+}
+.font-content2 {
+font-weight: 600;
+font-size: 28px;
+line-height: 42px;
+color: #FFFFFF;
+}
+.font-meditasi {
+	font-size: 16px;
+line-height: 28px;
+color: #7B7C7C;
+}
+@media (max-width: 420px) {
+	.font-meditasi {
+		font-size: 12px !important;
+	line-height: 28px;
+	color: #7B7C7C;
+	}
+}
+.btn-riliv {
+	background-image: linear-gradient(to right, #f46b5a, #f5a623);
+	text-align: center;
+	padding: 13px;
+	color: white;
+	width: 100%;
+	border: none;
+	border-radius: 10px;
+}
+
+.btn-riliv:hover {
+	background-image: linear-gradient(to right, #41d5e7 0%, #41d5e7 100%);
+	color: white;
+}
+
+.description-riliv {
+	font-size: 14px !important;
+	line-height: 28px !important;
+	margin-top: 10px !important;
+	text-align: center !important;
+	color: #333333 !important;
+}
+
+.price-riliv {
+	font-weight: 600;
+	font-size: 28px;
+	line-height: 42px;
+	/* identical to box height, or 150% */
+
+	text-align: center;
+	color: #11cbe1 !important;
+}
+
+.price-orange {
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 28px;
+	/* identical to box height, or 175% */
+	color: #F5A623;
+	text-align: center;
+}
+
+.listriliv ul li:before {
+	display: block;
+	float: left;
+	transform: translateY(4px);
+	content: '';
+	width: 16px;
+	height: 16px;
+	background-image: url('../img-ads/icon/icon_centang.png');
+	background-size: cover;
+	background-position: center;
+}
+
+.listriliv ul {
+	padding: 0px;
+}
+
+.listriliv ul li {
+	list-style-type: none;
+	font-size: 16px;
+	line-height: 28px;
+	padding-top: 15px;
+}
+.listriliv ul li p{
+	margin-left: 25px;
+	margin-bottom: 0px;
+}
+.listriliv ol li {
+	font-size: 16px;
+	line-height: 28px;
+	padding-top: 24px;
+}
+
+.listriliv ol li::marker {
+	font-size: 16px;
+	line-height: 31px;
+	padding-top: 24px;
+}
+
+.listriliv ol li b {
+	font-size: 16px;
+	line-height: 28px;
+	padding-top: 24px;
+}
+
+.listriliv2 ul li:before {
+	display: block;
+	float: left;
+	transform: translateY(4px);
+	content: '';
+	width: 16px;
+	height: 16px;
+	background-image: url('../img-ads/icon/icon_centang.png');
+	background-size: cover;
+	background-position: center;
+}
+
+.listriliv2 ul {
+	padding: 0px;
+}
+
+.listriliv2 ul li {
+	list-style-type: none;
+	font-size: 16px;
+	line-height: 28px;
+	background: #ECFBFC;
+	border-radius: 8px;
+	margin-top: 24px;
+	padding: 24px;
+}
+.listriliv2 ul li p{
+	margin-left: 25px;
+	margin-bottom: 0px;
+}
+.section-riliv {
+	padding-top: 80px;
+}
+
+.number {
+	background: linear-gradient(270deg, #F47C49 0%, #F5A623 100%);
+	font-weight: 600;
+	font-size: 28px;
+	line-height: 42px;
+	height: 40px;
+	width: 40px;
+	border-radius: 50px;
+	margin-right: 24px;
+	text-align: center;
+
+	/* Primary - White / White */
+
+	color: #FFFFFF;
+}
+.title-content{
+	font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+text-align: center;
+
+/* Primary - Black / Level 1 */
+
+color: #333333;
+}
+
+.pict-content{
+	margin-bottom: 24px;
+}

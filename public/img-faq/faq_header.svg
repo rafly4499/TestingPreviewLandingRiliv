@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__faq-header" width="1366" height="380" viewBox="0 0 1366 380">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Mask" d="M0 0H1366V380H0z" class="prefix__cls-1"/>
+        </clipPath>
+        <clipPath id="prefix__clip-path-2">
+            <path id="prefix__Mask-2" d="M0 0H1366V754.109H0z" class="prefix__cls-2" data-name="Mask"/>
+        </clipPath>
+        <clipPath id="prefix__clip-path-3">
+            <path id="prefix__Mask-3" d="M1523.268 472.948c0 35.614-26.45 76.258-82.126 69.318-12.217 34.855-83.36 108.769-197.745 86.271s-125-126.055-276.16-126.055S802.9 789.166 496.37 628.537 184.94 851.766 0 787.463V0h469.088c0 212.074 238.025 386.617 399.251 305.36s283.037-28.469 349.039 59.986 169.829 110.6 223.764 86.112 79.447 10.602 82.126 21.49z" class="prefix__cls-2" data-name="Mask"/>
+        </clipPath>
+        <style>
+            .prefix__cls-1{fill:#d8d8d8}.prefix__cls-2{fill:#11cbe1}
+        </style>
+    </defs>
+    <path id="prefix__Mask-4" d="M0 0H1366V377H0z" class="prefix__cls-1" data-name="Mask"/>
+    <g id="prefix__faq-header-2" data-name="faq-header">
+        <g id="prefix__ilustrasi-depresi-2" transform="translate(0 -161.034)">
+            <path id="prefix__Mask-5" d="M0 0h1366v754.109H0z" data-name="Mask" style="fill:#41d5e7"/>
+            <g id="prefix__ilustrasi-depresi-2-2" data-name="ilustrasi-depresi-2">
+                <path id="prefix__Path_119" d="M0 0s270.045 18.379 328.35 157.742 117.441 157.611 171.336 157.611V0z" data-name="Path 119" transform="translate(891.527 -24.854)" style="opacity:.34;fill:#11cbe1"/>
+                <g id="prefix__Group_2" data-name="Group 2" transform="translate(350.375 412.82)">
+                    <path id="prefix__Mask-6" d="M466.138 182.875H0v-77.748h9.159V97.4h34.586V24.946l18.35-12.582H80.6V5.981h9.418V0h73.146v49.7h21.178v35.71h46.188V97.4l32.783 14.363v28.045h22.749V71.966H318.6V60.83h51.65l11.884 19.257v59.719h26.34v-28.044h9.247v-6.635h-9.247V97.4h101.409V24.946l18.349-12.582h18.509V5.981h9.418V0h73.146v49.7h21.178v35.71h46.188V97.4l32.783 14.363v28.045H752.2V71.966h32.537V60.83h51.647l11.885 19.257v59.719h26.339v-28.044h9.248v-6.635h-9.248V97.4h140.861v85.477z" class="prefix__cls-2" data-name="Mask" transform="translate(0 158.52)"/>
+                    <path id="prefix__Mask_Copy" d="M466.138 304.008H0V174.759h9.159v-12.846h34.586V41.469l18.35-20.915H80.6V9.942h9.418V0h73.146v82.616h21.178v59.368h46.188v19.929l32.783 23.876v46.622h22.749V119.635H318.6v-18.513h51.65l11.884 32.012v99.276h26.34v-46.621h9.247v-11.03h-9.247v-12.846h101.409V41.469l18.349-20.916h18.509V9.942h9.418V0h73.146v82.616h21.178v59.368h46.188v19.929l32.783 23.876v46.622H752.2V119.635h32.537v-18.513h51.647l11.885 32.012v99.276h26.339v-46.621h9.248v-11.03h-9.248v-12.846h140.861v142.1z" data-name="Mask Copy" transform="translate(137.063)" style="opacity:.5;fill:#11cbe1"/>
+                </g>
+                <g id="prefix__Group" transform="translate(-21.763 -46.975)">
+                    <path id="prefix__Path_118_Copy" d="M1530.182 75.859s41.442 104.54-64.841 200.844-146.464 171.26-285.3 114.547-278.223-86.922-371.351 26.932-159.459 316.969-449.637 221.46c-19.44-13.748-359.053 0-359.053 0V337.235c107.1-123.314 435.928-178.768 444.043-208.868C468.3 38.4 604.317 62.522 663 43.673c100.2-32.186 193.31-82.361 374.788 5.734s492.394 26.452 492.394 26.452z" data-name="Path 118 Copy" transform="translate(0 397.818)" style="fill:#07c3d9"/>
+                    <g id="prefix__Path_123" data-name="Path 123" transform="translate(6.834)">
+                        <path id="prefix__Mask-7" d="M1523.268 472.948c0 35.614-26.45 76.258-82.126 69.318-12.217 34.855-83.36 108.769-197.745 86.271s-125-126.055-276.16-126.055S802.9 789.166 496.37 628.537 184.94 851.766 0 787.463V0h469.088c0 212.074 238.025 386.617 399.251 305.36s283.037-28.469 349.039 59.986 169.829 110.6 223.764 86.112 79.447 10.602 82.126 21.49z" class="prefix__cls-2" data-name="Mask"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="844" viewBox="0 0 1366 844">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#707070}.cls-2{fill:#d8d8d8;opacity:.05}.cls-3{fill:#11cbe1}.cls-4{clip-path:url(#clip-path)}.cls-5{clip-path:url(#clip-path-2)}.cls-6{fill:#fff;opacity:.14}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_88" d="M0 0h1366v797H0z" class="cls-1" data-name="Rectangle 88" transform="translate(0 80)"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Mask" d="M0 0h1366v1214H0z" class="cls-2"/>
+        </clipPath>
+    </defs>
+    <g id="Group_11857" data-name="Group 11857" transform="translate(0 -33)">
+        <path id="Rectangle_76" d="M0 0h1366v844H0z" class="cls-3" data-name="Rectangle 76" transform="translate(0 33)"/>
+        <g id="Mask_Group_2" class="cls-4" data-name="Mask Group 2">
+            <g id="home-section-8-background" transform="translate(0 -267)">
+                <path id="Mask-2" d="M0 0h1366v1214H0z" class="cls-2" data-name="Mask"/>
+                <g id="home-section-8-background-2" class="cls-5" data-name="home-section-8-background">
+                    <g id="home-section-8-background-3" data-name="home-section-8-background" transform="rotate(180 587 208)">
+                        <path id="Path_2_Copy" d="M0 796.553C-364.633 722.661-272.335 637.3-409.162 564.718s-268.306 52.308-330.486-189.544S-1125.47 176.379-1173.929 0v796.553z" class="cls-6" data-name="Path 2 Copy" transform="rotate(180)"/>
+                        <path id="Path_2" d="M0 597.089c-256.294-20.6-256.294-201.836-366.953-226.868s-222.045 0-295.085-110.684S-767.519 34.905-947.484 0v597.089z" class="cls-6" data-name="Path 2" transform="rotate(180 113.184 -100)"/>
+                        <path id="Path_2_Copy_2" d="M0 398.365C-143.6 384.624-143.6 263.7-205.595 247S-330 247-370.924 173.158-430.022 23.288-530.852 0v398.365z" class="cls-6" data-name="Path 2 Copy 2" transform="rotate(180 321.5 -199.362)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

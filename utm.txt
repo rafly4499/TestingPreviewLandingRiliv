@@ -1,0 +1,4 @@
+Links
+android: https://play.google.com/store/apps/details?id=nozero.apps1&referrer=utm_source%3Dwebsite%26utm_content%3Dandroid%26utm_campaign%3D{path}
+ios: https://click.google-analytics.com/redirect?tid=UA-65518022-7&url=https%3A%2F%2Fitunes.apple.com%2Fid%2Fapp%2Friliv%2Fid1510486066&aid=nozero.apps1&idfa=%{idfa}&cs=website&cn={path}&cc=ios
+

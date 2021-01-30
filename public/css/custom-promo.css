@@ -1,0 +1,14 @@
+.body-promo {
+	background-image: url("/img-promo/background-ads.svg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 100vh;
+}
+
+@media (max-width: 768px) {
+	.body-promo {
+		box-shadow: none !important;
+		background: white;
+	}
+}

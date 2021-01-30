@@ -1,0 +1,31 @@
+{
+	"name": "riliv-landing-page",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start -p 8080",
+		"export": "next export",
+		"deploy": "npm run build && gcloud app deploy",
+		"staticStart": "http-server out -p 3100"
+	},
+	"author": "Satrio",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"express": "^4.17.1",
+		"http-server": "^0.12.3",
+		"isomorphic-unfetch": "^3.0.0",
+		"next": "9.3.1",
+		"nextjs-redirect": "^4.0.2",
+		"numeral": "^2.0.6",
+		"react": "16.13.1",
+		"react-dom": "16.13.1",
+		"react-range": "^1.5.3",
+		"react-reveal": "^1.2.2",
+		"react-router-dom": "^5.2.0",
+		"react-slick": "^0.25.2",
+		"request": "^2.88.2",
+		"slick-carousel": "^1.8.1"
+	}
+}
